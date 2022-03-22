@@ -1,1 +1,1 @@
-cleaning_data.ipynb containts the code (with comments) that accesses a folder, each subfolder in this folder and opens each txt file in these subfolders. Then it cleans the contents of the files from unnecessary symbols and lines and rewrites the files with this cleaned contents. 
+cleaning_data.ipynb containts a code which accesses a folder, each subfolder in this folder and opens each txt file in these subfolders. Then it cleans the contents of the files from unnecessary symbols and lines and rewrites the files with this cleaned contents. 
